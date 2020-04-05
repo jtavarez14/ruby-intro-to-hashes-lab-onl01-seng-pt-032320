@@ -12,15 +12,8 @@ def monopoly
 end
 
 def monopoly_with_second_tier
-<<<<<<< HEAD
-	monopoly = 
-	 {:railroads => 
-  	{
-	  :pieces => 4}, 
-	  :names => {}}
-=======
 	monopoly = {:railroads => {:pieces => 4}}
->>>>>>> e00692308480a00609f8f8ad7f161ceca28e2ca9
+
 
 end 
 
